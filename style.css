@@ -1,0 +1,40 @@
+header{
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+}
+#menu{
+    text-align: center;
+    font-size: 20px;
+}
+nav a{
+    color: black;
+    text-decoration-line: none;
+    padding-left: 40px;
+}
+header, nav, footer, section{
+    background-color: lightgray;    
+    border-style: 1;
+    margin: 20px auto;
+    padding: 10px;
+    width: 80%;
+}
+footer{
+    background-color: lightgray;
+    clear: both;
+    text-align: center;
+    font-family: cursive;
+}
+#inicio{
+    border-style: 1;
+    width: 100%;
+}
+article{
+    border-style: 1;
+    margin: 10px auto;
+    padding: 20px;
+    width: 25%;
+    display: inline-block;
+}

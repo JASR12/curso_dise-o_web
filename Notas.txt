@@ -1,0 +1,22 @@
+Sitio web: Lugar que tiene integradas diferentes páginas web.
+Página web: Sitio donde solo existe un tipo de contenido con diferentes hipervínculos a otras páginas.
+
+HTML ---> HyperText Markup Language
+No es un lenguaje de programación, sino un lenguaje comercial ya que no puede hacer operaciones aritméticas y únicamente agrega etiquetas.
+Inicia alrededor de 1989, pero se formaliza en el 1992.
+
+Estructura de las etiquetas: <Nombre Etiqueta Atributos>
+
+<head> --> Muestra la identificación de los metadatos para la búsqueda.
+<title> --> Define el título del documento.
+<base> --> Define la URL base para las URLs referentes a la página.
+<link> --> Enlaza Javascript y CSS en el doc HTML.
+<meta> --> Especifica metadatos.
+<nav> --> Define una sección para contener enlaces de navegación.
+<adress> --> Define una sección para contener información de contacto.
+
+
+GITHUB
+Master: Rama o branch principal de desarrollo del proyecto.
+Branch: Rama secundaria o versión paralela de un master, permite haer modificaciones sin afectar la versión principal. AL terminar los cambios se puede unir a la rama prinicpal con un merge.
+Commit: Corresponde a un cambio individual que se hace a uno o más archivos.
